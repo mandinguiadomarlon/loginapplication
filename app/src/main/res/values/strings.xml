@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApplication</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="action_login">Login</string>
+    <string name="invalid_login">Invalid username or password!</string>
+    <string name="login_credentials_required">Username and password are required!</string>
+    <string name="user">Welcome!</string>
+</resources>
